@@ -7,7 +7,7 @@
 
 ## 操作説明
 - WASDキーか矢印キーで移動、SHIFTキーか右クリックで飛び込み回避
-  Spaceキー盾を構えQキーで矢を放つ
+- Spaceキー盾を構えQキーで矢を放つ
 
 
 **[Start Game](build/index.html)**
